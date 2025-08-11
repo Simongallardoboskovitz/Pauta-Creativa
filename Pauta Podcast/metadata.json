@@ -1,0 +1,6 @@
+{
+  "name": "Pauta Creativa",
+  "description": "Una aplicación con IA que genera pautas de conversación con humor (al estilo chileno) para tu podcast. Ingresa los datos y descarga un PDF con ideas para romper el hielo.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
